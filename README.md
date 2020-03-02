@@ -2,6 +2,7 @@
 # mysimplecompedium
 
 <!-- badges: start -->
+[![R build status](https://github.com/LiYingWang/mysimplecompedium/workflows/R-CMD-check/badge.svg)](https://github.com/LiYingWang/mysimplecompedium/actions)
 <!-- badges: end -->
 
 The goal of mysimplecompedium is to ...
