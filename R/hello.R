@@ -15,5 +15,19 @@
 plus_two <- function(x) {
 
   x + 2
+}
+
+#' Adds three to any number
+#'
+#' @param x an integer or double; any number
+#'
+#' @return a number
+#' @export
+#'
+#' @examples
+#' plus_three(1)
+#'
+plus_three <- function(x) {
+  x + 3
 
 }
