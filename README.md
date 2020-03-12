@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 [![R build status](https://github.com/LiYingWang/mysimplecompedium/workflows/R-CMD-check/badge.svg)](https://github.com/LiYingWang/mysimplecompedium/actions)
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LiYingWang/mysimplecompedium/master?urlpath=rstudio)
 <!-- badges: end -->
 
 The goal of mysimplecompedium is to ...
